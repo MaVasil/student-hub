@@ -13,4 +13,7 @@ Calculus:
  Median 
  mode 
 
- distribution and various statistical methods we are gonna going to learn this . 
+ distribution and various statistical methods we are gonna going to learn this .
+
+ Programming 
+ DSA
