@@ -16,3 +16,7 @@ Calculus:
  distribution and various statistical methods we are gonna going to learn this . 
 Programming 
 Object oriented Programming through JAVA
+ distribution and various statistical methods we are gonna going to learn this .
+
+ Programming 
+ DSA
