@@ -1,0 +1,6 @@
+Calculus: 
+ Integration .
+ Differenctiation . 
+ Integration by parts . 
+
+ feel free to add the maths related information in this project .
